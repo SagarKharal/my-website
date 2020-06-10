@@ -1,5 +1,4 @@
 # my-website
 This is really awesome website 
 Edit on readme. 
-changes due to the update readme. 
-More changed from the local side. 
+edit on read me on master on github before rebase
